@@ -4,7 +4,7 @@ A collection of Python scripts designed to automate and streamline C++ developme
 
 ---
 
-## 📁 Project Overview
+### 📁 Project Overview
 
 This repository provides automation tools for:
 
@@ -14,9 +14,9 @@ This repository provides automation tools for:
 
 ---
 
-## 🚀 Usage
+### 🚀 Usage
 
-### 1. Generate a C++ Class
+#### 1. Generate a C++ Class
 
 To create a new C++ class with a header and source file:
 
@@ -33,7 +33,7 @@ Both files include basic class structure and default methods.
 
 ---
 
-### 2. Generate a Makefile
+#### 2. Generate a Makefile
 
 To generate a Makefile that automatically includes all `.cpp` files in the current directory and subdirectories:
 
@@ -49,18 +49,18 @@ This will create a Makefile with:
 
 ---
 
-## 🧰 Requirements
+### 🧰 Requirements
 
 - Python 3.x
 - C++ compiler (`g++` or `clang++`)
 
 ---
 
-## 📄 License
+### 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📬 Contact
+### 📬 Contact
 Maintained by [Anzohs](https://github.com/Anzohs).
