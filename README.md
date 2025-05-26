@@ -62,11 +62,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome. If you find issues or want to improve functionality, feel free to contribute!
-
----
-
 ## 📬 Contact
 Maintained by [Anzohs](https://github.com/Anzohs).
