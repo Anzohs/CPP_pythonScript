@@ -69,4 +69,4 @@ Pull requests are welcome. If you find issues or want to improve functionality, 
 ---
 
 ## 📬 Contact
-Maintained by Anzohs.
+Maintained by [Anzohs](https://github.com/Anzohs).
